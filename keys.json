@@ -1,10 +1,6 @@
 {
   "ABC123": {
-    "hwid": "",
-    "expire": 0
-  },
-  "VIP999": {
-    "hwid": "",
-    "expire": 0
+    "expire": 0,
+    "hwid": ""
   }
 }
