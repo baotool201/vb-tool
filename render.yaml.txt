@@ -4,7 +4,7 @@ services:
     runtime: python
     plan: 0.5c-512mb
     buildCommand: pip install -r requirements.txt
-    startCommand: python botsever_v5.py
+    startCommand: python botsever_5.py
     numInstances: 1
     maxShutdownDelaySeconds: 30
     disk:
