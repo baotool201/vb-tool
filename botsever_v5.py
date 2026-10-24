@@ -244,7 +244,7 @@ class _AnsiStyle:
 Fore = _AnsiFore()
 Style = _AnsiStyle()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8344831081:AAHiHX38GXgKvtTKuqtsAdtY0_W2TaE00rk").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8344831081:AAHME_aid-vB7t9EugId7MazKh0ygyZKo54").strip()
 POLL_TIMEOUT = 25
 MAX_TEXT = 3900
 FLUSH_INTERVAL = 0.40
